@@ -1,4 +1,0 @@
-﻿  main.cpp
-E:\C C++\C++\Learning\捕获异常\捕获异常\main.cpp(3,37): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
-E:\C C++\C++\Learning\捕获异常\捕获异常\main.cpp(22,37): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
-  捕获异常.vcxproj -> E:\C C++\C++\Learning\捕获异常\x64\Debug\捕获异常.exe
